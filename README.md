@@ -9,3 +9,10 @@ Outlook Web<br>
 <a href="https://outlook.office.com/owa/?subject=title&body=message&to=postmaster@example.com&path=/mail/action/compose">Outlook Webでメール作成</a> <br>
 
 
+
+# Line Works
+<a href="https://line.worksmobile.com/default?version=18">line worksアプリ起動</a>
+
+<br>
+
+<a href="https://line.worksmobile.com/message?version=18">トーク画面</a>
