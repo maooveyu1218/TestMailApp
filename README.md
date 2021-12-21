@@ -6,7 +6,7 @@ Windows既定メールアプリを起動:<br>
 
 
 Outlook Web<br>
-<a href="https://outlook.office.com/owa/?subject=title&body=message&to=postmaster@example.com&path=/mail/action/compose">Outlook Webでメール作成</a> <br>
+<a href="https://outlook.office.com/owa/?subject=title&body=message&to=postmaster@example.com&path=/mail/action/compose" target="_blank" rel="noopener noreferrer">Outlook Webでメール作成</a> <br>
 
 
 
@@ -15,4 +15,7 @@ Outlook Web<br>
 
 <br>
 
-<a href="https://line.worksmobile.com/message?version=18">トーク画面(モバイル・ブラウザ可能)</a>
+<a href="https://line.worksmobile.com/message?version=18" target="_blank" rel="noopener noreferrer">トーク画面(モバイル・ブラウザ可能)</a> 
+<br>
+
+App Link (Universal Link) を使用する参考：https://developers.worksmobile.com/jp/document/300190001?lang=ja
