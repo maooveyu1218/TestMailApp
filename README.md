@@ -15,4 +15,4 @@ Outlook Web<br>
 
 <br>
 
-<a href="https://line.worksmobile.com/message?version=18">トーク画面</a>
+<a href="https://line.worksmobile.com/message?version=18">トーク画面(モバイル・ブラウザ可能)</a>
