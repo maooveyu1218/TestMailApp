@@ -8,8 +8,6 @@ Windows既定メールアプリを起動:<br>
 Outlook Web<br>
 <a href="https://outlook.office.com/owa/?subject=title&body=message&to=postmaster@example.com&path=/mail/action/compose" target="_blank">Outlook Webでメール作成</a> <br>
 
-[Outlook Webでメール作成](https://outlook.office.com/owa/?subject=title&body=message&to=postmaster@example.com&path=/mail/action/compose){:target="_blank"}
-
 
 # Line Works
 <a href="https://line.worksmobile.com/contact?version=18">line worksアプリ起動(モバイルのみ)</a>
