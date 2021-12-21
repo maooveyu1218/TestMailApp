@@ -11,7 +11,7 @@ Outlook Web<br>
 
 
 # Line Works
-<a href="https://line.worksmobile.com/default?version=18">line worksアプリ起動</a>
+<a href="https://line.worksmobile.com/conatct?version=18">line worksアプリ起動</a>
 
 <br>
 
