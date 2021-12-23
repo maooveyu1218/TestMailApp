@@ -18,3 +18,6 @@ Outlook Web<br>
 <br>
 
 App Link (Universal Link) を使用する参考：https://developers.worksmobile.com/jp/document/300190001?lang=ja
+
+<br>
+<a href="https://line.worksmobile.com/message/send?version=18&message=こんにちは&emailList=huanggaofeng@gmail.com" target="_blank">メッセージ送信</a> 
